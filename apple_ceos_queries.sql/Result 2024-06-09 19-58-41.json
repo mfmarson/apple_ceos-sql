@@ -1,0 +1,50 @@
+[
+	{
+		"id": 7,
+		"name": "Steve Jobs",
+		"slug": "stevejobs",
+		"first_year_active": "1976"
+	},
+	{
+		"id": 3,
+		"name": "Mike Markkula",
+		"slug": "mikemarkkula",
+		"first_year_active": "1977"
+	},
+	{
+		"id": 5,
+		"name": "Mike Scott",
+		"slug": "mikescott",
+		"first_year_active": "1978"
+	},
+	{
+		"id": 6,
+		"name": "John Sculley",
+		"slug": "johnsculley",
+		"first_year_active": "1983"
+	},
+	{
+		"id": 1,
+		"name": "Michael Spindler",
+		"slug": "michaelspindler",
+		"first_year_active": "1993"
+	},
+	{
+		"id": 2,
+		"name": "Gil Amelio",
+		"slug": "gilamelio",
+		"first_year_active": "1996"
+	},
+	{
+		"id": 8,
+		"name": "Steve Jobs",
+		"slug": "stevejobs",
+		"first_year_active": "1997"
+	},
+	{
+		"id": 4,
+		"name": "Tim Cook",
+		"slug": "timcook",
+		"first_year_active": "2011"
+	}
+]
